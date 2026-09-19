@@ -20,9 +20,14 @@ app.add_middleware(
 )
 
 # Load dataset and trained model
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-ENRICHED_CSV = os.path.join(BASE_DIR, "delhi_safety_enriched.csv")
-MODEL_PATH = os.path.join(BASE_DIR, "shesuraksha_model.pkl")
+# `app.py` is deployed from the backend directory on Render.  The safety CSV
+# lives beside it, while the trained model is kept at the repository root.
+# Resolve both locations from this file rather than from Render's working
+# directory so local and hosted startup use the same paths.
+BACKEND_DIR = os.path.dirname(os.path.abspath(__file__))
+REPOSITORY_DIR = os.path.dirname(BACKEND_DIR)
+ENRICHED_CSV = os.path.join(BACKEND_DIR, "delhi_safety_enriched.csv")
+MODEL_PATH = os.path.join(REPOSITORY_DIR, "shesuraksha_model.pkl")
 
 df = pd.read_csv(ENRICHED_CSV)
 model = joblib.load(MODEL_PATH)
