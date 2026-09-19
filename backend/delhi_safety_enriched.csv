@@ -1,0 +1,167 @@
+area,url,risk_level,safer_than_pct,crime_vs_avg_pct,risk_score,police_stations_nearby,bus_stops_nearby,street_lighting_score
+vasant vihar,https://safepath.aman.wiki/areas/vasant-vihar/,safe,100,-87,0,4,12,4
+vasant kunj south,https://safepath.aman.wiki/areas/vasant-kunj-south/,safe,99,-83,0,2,11,5
+zafrabad,https://safepath.aman.wiki/areas/zafrabad/,safe,99,-84,0,2,16,4
+safdarjung enclave,https://safepath.aman.wiki/areas/safdarjung-enclave/,safe,98,-78,0,2,16,4
+samaypurbadli,https://safepath.aman.wiki/areas/samaypurbadli/,safe,98,-78,0,4,12,4
+adrash nagar,https://safepath.aman.wiki/areas/adrash-nagar/,elevated risk,34,-7,3,1,8,2
+alipur,https://safepath.aman.wiki/areas/alipur/,low risk,71,-7,1,1,11,4
+aman vihar,https://safepath.aman.wiki/areas/aman-vihar/,high risk,19,34,4,1,5,2
+amar colony,https://safepath.aman.wiki/areas/amar-colony/,high risk,7,37,4,0,4,1
+anand parbat,https://safepath.aman.wiki/areas/anand-parbat/,elevated risk,21,12,3,2,5,3
+anandvihar,https://safepath.aman.wiki/areas/anandvihar/,elevated risk,31,32,3,2,8,3
+anandvihar 2,https://safepath.aman.wiki/areas/anandvihar-2/,elevated risk,33,28,3,1,8,2
+ashok vihar,https://safepath.aman.wiki/areas/ashok-vihar/,moderate risk,41,12,2,1,9,2
+baba hari das nagar,https://safepath.aman.wiki/areas/baba-hari-das-nagar/,low risk,65,6,1,1,11,4
+badar pur,https://safepath.aman.wiki/areas/badar-pur/,moderate risk,50,-15,2,2,6,3
+bara hindu rao,https://safepath.aman.wiki/areas/bara-hindu-rao/,moderate risk,55,-24S,2,2,6,3
+barakhamba road,https://safepath.aman.wiki/areas/barakhamba-road/,high risk,5,112,4,1,5,2
+bawana,https://safepath.aman.wiki/areas/bawana/,low risk,63,8,1,2,9,4
+bawana 2,https://safepath.aman.wiki/areas/bawana-2/,low risk,61,11,1,3,13,4
+begum pur,https://safepath.aman.wiki/areas/begum-pur/,low risk,64,7,1,2,9,4
+bhajanpuri,https://safepath.aman.wiki/areas/bhajanpuri/,safe,84,-40,0,2,17,5
+bhalswa dairy,https://safepath.aman.wiki/areas/bhalswa-dairy/,low risk,62,-11,1,1,11,4
+bharat nagar,https://safepath.aman.wiki/areas/bharat-nagar/,low risk,62,-30,1,1,8,3
+bindapur,https://safepath.aman.wiki/areas/bindapur/,elevated risk,35,9,3,1,7,2
+bindapur 2,https://safepath.aman.wiki/areas/bindapur-2/,moderate risk,41,5,2,2,9,3
+burari,https://safepath.aman.wiki/areas/burari/,elevated risk,38,42,3,2,6,3
+chanakyapuri,https://safepath.aman.wiki/areas/chanakyapuri/,elevated risk,28,53,3,1,9,2
+chandni mahal,https://safepath.aman.wiki/areas/chandni-mahal/,elevated risk,39,26,3,1,5,2
+chhawla,https://safepath.aman.wiki/areas/chhawla/,moderate risk,56,19,2,2,6,3
+chitranjan park,https://safepath.aman.wiki/areas/chitranjan-park/,elevated risk,37,9,3,1,5,2
+civil lines,https://safepath.aman.wiki/areas/civil-lines/,high risk,8,87,4,0,4,1
+connaught place,https://safepath.aman.wiki/areas/connaught-place/,high risk,10,87,4,0,2,1
+d b g road,https://safepath.aman.wiki/areas/d-b-g-road/,elevated risk,25,3,3,2,6,3
+dabri,https://safepath.aman.wiki/areas/dabri/,low risk,60,-13,1,2,12,3
+darya ganj,https://safepath.aman.wiki/areas/darya-ganj/,safe,91,-54,0,3,15,5
+defence colony,https://safepath.aman.wiki/areas/defence-colony/,safe,84,-53,0,4,12,4
+delhi cantt,https://safepath.aman.wiki/areas/delhi-cantt/,safe,86,-40,0,2,17,5
+dwarka north,https://safepath.aman.wiki/areas/dwarka-north/,safe,95,-67,0,2,13,5
+dwarka sec 23,https://safepath.aman.wiki/areas/dwarka-sec-23/,low risk,68,-2,1,2,12,3
+dwarka south,https://safepath.aman.wiki/areas/dwarka-south/,low risk,79,-25,1,1,11,4
+farash bazar,https://safepath.aman.wiki/areas/farash-bazar/,elevated risk,38,-9,3,2,6,3
+fatehpur beri,https://safepath.aman.wiki/areas/fatehpur-beri/,elevated risk,28,64,3,1,5,2
+g t b enclave,https://safepath.aman.wiki/areas/g-t-b-enclave/,safe,96,-76,0,4,12,4
+gandhi nagar,https://safepath.aman.wiki/areas/gandhi-nagar/,moderate risk,44,-27,2,2,8,3
+geeta colony,https://safepath.aman.wiki/areas/geeta-colony/,moderate risk,52,-40,2,1,5,2
+ghazipur,https://safepath.aman.wiki/areas/ghazipur/,safe,97,-77,0,2,14,4
+gokulpuri,https://safepath.aman.wiki/areas/gokulpuri/,moderate risk,50,-25,2,2,7,3
+govind puri,https://safepath.aman.wiki/areas/govind-puri/,elevated risk,24,57,3,1,7,2
+greater kailash,https://safepath.aman.wiki/areas/greater-kailash/,safe,92,-61,0,3,13,5
+gulabibagh,https://safepath.aman.wiki/areas/gulabibagh/,low risk,69,-33,1,1,8,3
+h n din,https://safepath.aman.wiki/areas/h-n-din/,safe,88,-47,0,3,13,5
+hari nagar,https://safepath.aman.wiki/areas/hari-nagar/,elevated risk,32,9,3,1,5,2
+harsh vihar,https://safepath.aman.wiki/areas/harsh-vihar/,elevated risk,36,9,3,2,5,3
+hauz khas,https://safepath.aman.wiki/areas/hauz-khas/,moderate risk,53,-14,2,2,7,3
+hauzqazi,https://safepath.aman.wiki/areas/hauzqazi/,moderate risk,46,1,2,1,8,2
+i p estate,https://safepath.aman.wiki/areas/i-p-estate/,elevated risk,39,35,3,2,5,3
+inderpuri,https://safepath.aman.wiki/areas/inderpuri/,moderate risk,58,-39,2,2,8,3
+jaffarpur kalan,https://safepath.aman.wiki/areas/jaffarpur-kalan/,elevated risk,30,65,3,2,6,3
+jagatpuri,https://safepath.aman.wiki/areas/jagatpuri/,high risk,4,53,4,1,3,2
+jahangir puri,https://safepath.aman.wiki/areas/jahangir-puri/,elevated risk,32,12,3,2,6,3
+jama masjid,https://safepath.aman.wiki/areas/jama-masjid/,low risk,67,-21,1,3,10,3
+jamia nagar,https://safepath.aman.wiki/areas/jamia-nagar/,low risk,76,-29,1,3,13,4
+janak puri,https://safepath.aman.wiki/areas/janak-puri/,elevated risk,35,1,3,2,7,3
+jyoti nagar,https://safepath.aman.wiki/areas/jyoti-nagar/,low risk,75,-54,1,2,9,4
+kalkaji,https://safepath.aman.wiki/areas/kalkaji/,safe,90,-59,0,4,15,5
+kalkaji 2,https://safepath.aman.wiki/areas/kalkaji-2/,safe,89,-59,0,4,13,5
+kalyanpuri,https://safepath.aman.wiki/areas/kalyanpuri/,moderate risk,43,-38,2,1,7,2
+kamla market,https://safepath.aman.wiki/areas/kamla-market/,safe,93,-67,0,4,10,4
+kanjhawala,https://safepath.aman.wiki/areas/kanjhawala/,low risk,77,-21,1,2,12,3
+kapashera,https://safepath.aman.wiki/areas/kapashera/,safe,93,-60,0,3,17,5
+karawal nagar,https://safepath.aman.wiki/areas/karawal-nagar/,moderate risk,58,-15,2,1,8,2
+karol bagh,https://safepath.aman.wiki/areas/karol-bagh/,safe,81,-57,0,2,11,5
+kashmere gate,https://safepath.aman.wiki/areas/kashmere-gate/,moderate risk,42,-13,2,2,6,3
+kashmere gate 2,https://safepath.aman.wiki/areas/kashmere-gate-2/,moderate risk,45,-18,2,2,8,3
+keshav puram,https://safepath.aman.wiki/areas/keshav-puram/,high risk,19,-2,4,1,3,2
+khajurikhas,https://safepath.aman.wiki/areas/khajurikhas/,safe,87,-52,0,2,17,5
+khyala,https://safepath.aman.wiki/areas/khyala/,high risk,7,64,4,1,5,2
+kirti nagar,https://safepath.aman.wiki/areas/kirti-nagar/,low risk,70,-44,1,2,12,3
+kn katju marg,https://safepath.aman.wiki/areas/kn-katju-marg/,safe,82,-38,0,3,13,5
+kotala mubarak pur,https://safepath.aman.wiki/areas/kotala-mubarak-pur/,high risk,16,18,4,1,3,2
+krishna nagar,https://safepath.aman.wiki/areas/krishna-nagar/,safe,85,-59,0,3,15,5
+lahori gate,https://safepath.aman.wiki/areas/lahori-gate/,low risk,76,-38,1,1,8,3
+lajpat nagar,https://safepath.aman.wiki/areas/lajpat-nagar/,safe,81,-59,0,4,12,4
+lodhi colony,https://safepath.aman.wiki/areas/lodhi-colony/,safe,82,-53,0,4,17,5
+madhuvihar,https://safepath.aman.wiki/areas/madhuvihar/,elevated risk,20,46,3,1,6,2
+mahendra park,https://safepath.aman.wiki/areas/mahendra-park/,high risk,5,93,4,1,5,2
+malviya nagar,https://safepath.aman.wiki/areas/malviya-nagar/,high risk,3,77,4,0,2,1
+mandawali,https://safepath.aman.wiki/areas/mandawali/,moderate risk,40,22,2,2,6,3
+mandir marg,https://safepath.aman.wiki/areas/mandir-marg/,high risk,12,103,4,0,2,1
+mangolpuri,https://safepath.aman.wiki/areas/mangolpuri/,safe,92,-62,0,2,17,5
+mansarovar park,https://safepath.aman.wiki/areas/mansarovar-park/,moderate risk,47,-9,2,1,9,2
+maurice nagar,https://safepath.aman.wiki/areas/maurice-nagar/,moderate risk,45,20,2,1,5,2
+maurya enclave,https://safepath.aman.wiki/areas/maurya-enclave/,moderate risk,59,-3,2,1,5,2
+maya puri,https://safepath.aman.wiki/areas/maya-puri/,low risk,65,-26,1,2,9,4
+mayurvihar,https://safepath.aman.wiki/areas/mayurvihar/,low risk,79,-49,1,3,13,4
+mehrauli,https://safepath.aman.wiki/areas/mehrauli/,moderate risk,51,26,2,2,8,3
+mianwali nagar,https://safepath.aman.wiki/areas/mianwali-nagar/,elevated risk,22,6,3,2,7,3
+model town,https://safepath.aman.wiki/areas/model-town/,moderate risk,44,0,2,2,5,3
+moti nagar,https://safepath.aman.wiki/areas/moti-nagar/,high risk,6,96,4,1,5,2
+mukherji nagar,https://safepath.aman.wiki/areas/mukherji-nagar/,high risk,13,84,4,0,4,1
+mundka,https://safepath.aman.wiki/areas/mundka/,safe,90,-44,0,4,13,5
+nabi karim,https://safepath.aman.wiki/areas/nabi-karim/,high risk,9,40,4,1,5,2
+najafgarh,https://safepath.aman.wiki/areas/najafgarh/,high risk,10,101,4,0,2,1
+nandnagari,https://safepath.aman.wiki/areas/nandnagari/,high risk,13,43,4,0,2,1
+nangloi,https://safepath.aman.wiki/areas/nangloi/,high risk,4,97,4,1,3,2
+naraina,https://safepath.aman.wiki/areas/naraina/,low risk,61,5,1,2,9,4
+narela,https://safepath.aman.wiki/areas/narela/,low risk,75,-18,1,2,9,4
+neb sarai,https://safepath.aman.wiki/areas/neb-sarai/,elevated risk,26,52,3,2,9,3
+new ashok nagar,https://safepath.aman.wiki/areas/new-ashok-nagar/,high risk,2,143,4,1,3,2
+new friends colony,https://safepath.aman.wiki/areas/new-friends-colony/,high risk,17,48,4,0,4,1
+new usmanpur,https://safepath.aman.wiki/areas/new-usmanpur/,elevated risk,25,26,3,2,7,3
+nihal vihar,https://safepath.aman.wiki/areas/nihal-vihar/,moderate risk,47,5,2,2,9,3
+okhla,https://safepath.aman.wiki/areas/okhla/,low risk,73,-46,1,1,8,3
+paharganj,https://safepath.aman.wiki/areas/paharganj/,moderate risk,54,-24,2,1,7,2
+palam village,https://safepath.aman.wiki/areas/palam-village/,low risk,70,-48,1,3,13,4
+pandav nagar,https://safepath.aman.wiki/areas/pandav-nagar/,elevated risk,30,-7,3,1,5,2
+parliament street,https://safepath.aman.wiki/areas/parliament-street/,low risk,64,-9,1,2,9,4
+parshad nagar,https://safepath.aman.wiki/areas/parshad-nagar/,moderate risk,42,14,2,1,6,2
+paschim vihar,https://safepath.aman.wiki/areas/paschim-vihar/,elevated risk,27,30,3,2,8,3
+patel nagar,https://safepath.aman.wiki/areas/patel-nagar/,moderate risk,48,7,2,2,9,3
+prashant vihar,https://safepath.aman.wiki/areas/prashant-vihar/,high risk,18,21,4,0,4,1
+prashant vihar 2,https://safepath.aman.wiki/areas/prashant-vihar-2/,moderate risk,48,17,2,1,9,2
+preetvihar,https://safepath.aman.wiki/areas/preetvihar/,elevated risk,22,17,3,2,7,3
+pulprahlad pur,https://safepath.aman.wiki/areas/pulprahlad-pur/,moderate risk,52,-1,2,1,6,2
+punjabi bagh,https://safepath.aman.wiki/areas/punjabi-bagh/,high risk,1,197,4,1,5,2
+rajinder nagar,https://safepath.aman.wiki/areas/rajinder-nagar/,elevated risk,29,21,3,2,5,3
+rajouri garden,https://safepath.aman.wiki/areas/rajouri-garden/,high risk,15,31,4,0,2,1
+rajouri garden 2,https://safepath.aman.wiki/areas/rajouri-garden-2/,high risk,12,35,4,1,3,2
+ranhola,https://safepath.aman.wiki/areas/ranhola/,low risk,67,-4,1,3,10,3
+rani bagh,https://safepath.aman.wiki/areas/rani-bagh/,elevated risk,23,27,3,2,5,3
+ranjit nagar,https://safepath.aman.wiki/areas/ranjit-nagar/,moderate risk,49,-17,2,1,5,2
+rohini north,https://safepath.aman.wiki/areas/rohini-north/,elevated risk,33,2,3,1,5,2
+rohini south,https://safepath.aman.wiki/areas/rohini-south/,high risk,15,49,4,1,5,2
+roop nagar,https://safepath.aman.wiki/areas/roop-nagar/,high risk,11,10,4,1,5,2
+sadar bazar,https://safepath.aman.wiki/areas/sadar-bazar/,moderate risk,59,-16,2,1,8,2
+safdarjung enclave 2,https://safepath.aman.wiki/areas/safdarjung-enclave-2/,safe,95,-74,0,3,15,5
+sagarpur,https://safepath.aman.wiki/areas/sagarpur/,low risk,74,-53,1,1,11,4
+saket,https://safepath.aman.wiki/areas/saket/,safe,94,-72,0,3,12,4
+sangam vihar,https://safepath.aman.wiki/areas/sangam-vihar/,safe,87,-56,0,4,14,4
+sarai rohilla,https://safepath.aman.wiki/areas/sarai-rohilla/,moderate risk,57,-25,2,1,9,2
+sarita vihar,https://safepath.aman.wiki/areas/sarita-vihar/,safe,88,-49,0,2,11,5
+sarita vihar 2,https://safepath.aman.wiki/areas/sarita-vihar-2/,safe,85,-45,0,4,10,4
+sarojini nagar,https://safepath.aman.wiki/areas/sarojini-nagar/,moderate risk,53,-21,2,1,5,2
+seelampur,https://safepath.aman.wiki/areas/seelampur/,elevated risk,21,4,3,1,7,2
+seemapuri,https://safepath.aman.wiki/areas/seemapuri/,low risk,78,-37,1,2,9,4
+shahbad dairy,https://safepath.aman.wiki/areas/shahbad-dairy/,safe,80,-27,0,2,11,5
+shahdara,https://safepath.aman.wiki/areas/shahdara/,safe,83,-54,0,4,17,5
+shakarpur,https://safepath.aman.wiki/areas/shakarpur/,low risk,72,-33,1,2,9,4
+shalimar bagh,https://safepath.aman.wiki/areas/shalimar-bagh/,elevated risk,24,-7,3,2,6,3
+sonia vihar,https://safepath.aman.wiki/areas/sonia-vihar/,low risk,66,-16,1,3,10,3
+south campus,https://safepath.aman.wiki/areas/south-campus/,low risk,73,-29,1,2,12,3
+subhash place,https://safepath.aman.wiki/areas/subhash-place/,high risk,2,45,4,1,5,2
+subzimandi,https://safepath.aman.wiki/areas/subzimandi/,high risk,14,55,4,0,2,1
+sultan puri,https://safepath.aman.wiki/areas/sultan-puri/,high risk,8,50,4,1,3,2
+sunlight colony,https://safepath.aman.wiki/areas/sunlight-colony/,high risk,0,195,4,0,2,1
+swarup nagar,https://safepath.aman.wiki/areas/swarup-nagar/,moderate risk,55,15,2,1,7,2
+tilak marg,https://safepath.aman.wiki/areas/tilak-marg/,low risk,68,-21,1,1,8,3
+tilak nagar,https://safepath.aman.wiki/areas/tilak-nagar/,high risk,16,20,4,1,3,2
+timarpur,https://safepath.aman.wiki/areas/timarpur/,high risk,18,57,4,0,2,1
+tuglak road,https://safepath.aman.wiki/areas/tuglak-road/,elevated risk,27,45,3,2,9,3
+uttam nagar,https://safepath.aman.wiki/areas/uttam-nagar/,high risk,1,143,4,0,2,1
+vasant kunj north,https://safepath.aman.wiki/areas/vasant-kunj-north/,elevated risk,36,46,3,2,7,3
+vijay vihar,https://safepath.aman.wiki/areas/vijay-vihar/,low risk,78,-44,1,3,13,4
+vikas puri,https://safepath.aman.wiki/areas/vikas-puri/,low risk,72,-52,1,1,8,3
+vivekvihar,https://safepath.aman.wiki/areas/vivekvihar/,safe,96,-73,0,2,16,4
+welcome,https://safepath.aman.wiki/areas/welcome/,moderate risk,56,-25,2,2,7,3
