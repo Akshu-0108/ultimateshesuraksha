@@ -20,12 +20,17 @@ const safeHavenRoutes = require("./routes/safeHavenRoutes");
 const app = express();
 
 // 2. Middleware
-// Allow the React frontend (Vite dev server) to call this API.
-// CLIENT_ORIGIN comes from .env so you can change it per environment
-// (e.g. your deployed frontend URL later) without touching code.
+// Allow both the deployed Vercel client and local Vite development to call
+// this API. CLIENT_ORIGIN remains available for a future custom domain.
+const allowedOrigins = [
+  "http://localhost:5173",
+  "https://ultimateshesuraksha.vercel.app",
+  process.env.CLIENT_ORIGIN,
+].filter(Boolean);
+
 app.use(
   cors({
-    origin: process.env.CLIENT_ORIGIN || "http://localhost:5173",
+    origin: allowedOrigins,
     credentials: true,
   })
 );
