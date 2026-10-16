@@ -71,14 +71,12 @@ function Onboarding() {
             label="Full Name / Preferred Alias"
             value={formData.name}
             onChange={(v) => handleChange('name', v)}
-            placeholder="Aarohi Sen"
           />
           <Field
             icon={Phone}
             label="Mobile Number"
             value={formData.mobileNumber}
             onChange={(v) => handleChange('mobileNumber', v)}
-            placeholder="98765 43210"
             prefix="+91"
           />
           <Field
@@ -100,14 +98,12 @@ function Onboarding() {
                 label="Contact Name"
                 value={formData.emergencyContact.name}
                 onChange={(v) => handleContactChange('name', v)}
-                placeholder="Meena Verma"
               />
               <Field
                 icon={Phone}
                 label="Contact Mobile Number"
                 value={formData.emergencyContact.mobileNumber}
                 onChange={(v) => handleContactChange('mobileNumber', v)}
-                placeholder="98110 22334"
                 prefix="+91"
               />
               <Field
